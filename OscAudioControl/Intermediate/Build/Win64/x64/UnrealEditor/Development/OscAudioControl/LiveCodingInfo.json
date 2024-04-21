@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OscAudioControl.cpp.obj": [
+			"FOscAudioControlStructs.gen.cpp.obj",
+			"OscAudioControl.init.gen.cpp.obj",
+			"FOscAudioControlStructs.cpp.obj",
+			"OscAudioControl.cpp.obj"
+		]
+	}
+}

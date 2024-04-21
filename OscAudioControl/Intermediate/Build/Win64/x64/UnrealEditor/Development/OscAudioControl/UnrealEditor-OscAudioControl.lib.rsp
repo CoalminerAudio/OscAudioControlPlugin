@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OscAudioControl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProjects\TouchOSCBuildOut\TouchOSC_BuildOut\Intermediate\Build\Win64\x64\TouchOSC_BuildOutEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.obj"
+"F:\UnrealProjects\TouchOSCBuildOut\TouchOSC_BuildOut\Plugins\OscAudioControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\OscAudioControl\Module.OscAudioControl.cpp.obj"
+"F:\UnrealProjects\TouchOSCBuildOut\TouchOSC_BuildOut\Plugins\OscAudioControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\OscAudioControl\Default.rc2.res"
+/OUT:"F:\UnrealProjects\TouchOSCBuildOut\TouchOSC_BuildOut\Plugins\OscAudioControl\Intermediate\Build\Win64\x64\UnrealEditor\Development\OscAudioControl\UnrealEditor-OscAudioControl.lib"

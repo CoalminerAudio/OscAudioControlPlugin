@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oscaudiocontrol\\module.oscaudiocontrol.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\intermediate\\build\\win64\\x64\\touchosc_buildouteditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oscaudiocontrol\\definitions.oscaudiocontrol.h",
+            "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\source\\oscaudiocontrol\\private\\foscaudiocontrolstructs.cpp",
+            "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\source\\oscaudiocontrol\\public\\foscaudiocontrolstructs.h",
+            "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\source\\oscaudiocontrol\\private\\oscaudiocontrol.cpp",
+            "f:\\unrealprojects\\touchoscbuildout\\touchosc_buildout\\plugins\\oscaudiocontrol\\source\\oscaudiocontrol\\public\\oscaudiocontrol.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

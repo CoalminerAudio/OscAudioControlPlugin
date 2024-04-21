@@ -1,0 +1,168 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "FOscAudioControlStructs.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef OSCAUDIOCONTROL_FOscAudioControlStructs_generated_h
+#error "FOscAudioControlStructs.generated.h already included, missing '#pragma once' in FOscAudioControlStructs.h"
+#endif
+#define OSCAUDIOCONTROL_FOscAudioControlStructs_generated_h
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_42_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlFaderInformation_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlFaderInformation>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_62_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlTriggers_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlTriggers>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_82_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlConsoleCommand_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlConsoleCommand>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_95_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlControlBusMix_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlControlBusMix>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_121_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlUsers_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlUsers>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_140_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlAnimationInformation_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlAnimationInformation>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_156_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOscAudioControlAudioSpawn_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> OSCAUDIOCONTROL_API UScriptStruct* StaticStruct<struct FOscAudioControlAudioSpawn>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_SPARSE_DATA
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUOscAudioControlMixerLayout(); \
+	friend struct Z_Construct_UClass_UOscAudioControlMixerLayout_Statics; \
+public: \
+	DECLARE_CLASS(UOscAudioControlMixerLayout, UPrimaryDataAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/OscAudioControl"), NO_API) \
+	DECLARE_SERIALIZER(UOscAudioControlMixerLayout)
+
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOscAudioControlMixerLayout(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOscAudioControlMixerLayout(UOscAudioControlMixerLayout&&); \
+	NO_API UOscAudioControlMixerLayout(const UOscAudioControlMixerLayout&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOscAudioControlMixerLayout); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOscAudioControlMixerLayout); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOscAudioControlMixerLayout) \
+	NO_API virtual ~UOscAudioControlMixerLayout();
+
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_188_PROLOG
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_SPARSE_DATA \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_INCLASS_NO_PURE_DECLS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_191_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> OSCAUDIOCONTROL_API UClass* StaticClass<class UOscAudioControlMixerLayout>();
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_SPARSE_DATA
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_ACCESSORS
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUOscAudioControlUserInfo(); \
+	friend struct Z_Construct_UClass_UOscAudioControlUserInfo_Statics; \
+public: \
+	DECLARE_CLASS(UOscAudioControlUserInfo, UPrimaryDataAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/OscAudioControl"), NO_API) \
+	DECLARE_SERIALIZER(UOscAudioControlUserInfo)
+
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOscAudioControlUserInfo(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOscAudioControlUserInfo(UOscAudioControlUserInfo&&); \
+	NO_API UOscAudioControlUserInfo(const UOscAudioControlUserInfo&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOscAudioControlUserInfo); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOscAudioControlUserInfo); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOscAudioControlUserInfo) \
+	NO_API virtual ~UOscAudioControlUserInfo();
+
+
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_210_PROLOG
+#define FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_SPARSE_DATA \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_ACCESSORS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_INCLASS_NO_PURE_DECLS \
+	FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h_213_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> OSCAUDIOCONTROL_API UClass* StaticClass<class UOscAudioControlUserInfo>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_UnrealProjects_TouchOSCBuildOut_TouchOSC_BuildOut_Plugins_OscAudioControl_Source_OscAudioControl_Public_FOscAudioControlStructs_h
+
+
+#define FOREACH_ENUM_EOSCAUDIOCONTROLACTORSELECTION(op) \
+	op(ActorOne) \
+	op(ActorTwo) \
+	op(ActorThree) \
+	op(ActorFour) 
+#define FOREACH_ENUM_EOSCAUDIOCONTROLWATCHSELECTION(op) \
+	op(ChoiceOne) \
+	op(ChoiceTwo) 
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
